@@ -9,10 +9,11 @@ body {
 }
 
 h1 {
-  text-align: center;
+  color: #a49393;
   font-family: "Roboto";
   font-size: 50px;
-  color: #a49393;
+  margin-top: 50px;
+  text-align: center;
 }
 
 h2 {
